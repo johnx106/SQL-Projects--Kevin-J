@@ -1,0 +1,158 @@
+[
+  {
+    "player_api_id": 30981,
+    "player_name": "Lionel Messi",
+    "rating": 92.19230651855469,
+    "MultipleEntries": 26
+  },
+  {
+    "player_api_id": 30893,
+    "player_name": "Cristiano Ronaldo",
+    "rating": 91.27999877929688,
+    "MultipleEntries": 25
+  },
+  {
+    "player_api_id": 30924,
+    "player_name": "Franck Ribery",
+    "rating": 88.45833587646485,
+    "MultipleEntries": 24
+  },
+  {
+    "player_api_id": 30955,
+    "player_name": "Andres Iniesta",
+    "rating": 88.31999969482422,
+    "MultipleEntries": 25
+  },
+  {
+    "player_api_id": 35724,
+    "player_name": "Zlatan Ibrahimovic",
+    "rating": 88.28571319580078,
+    "MultipleEntries": 21
+  },
+  {
+    "player_api_id": 30834,
+    "player_name": "Arjen Robben",
+    "rating": 87.83999633789063,
+    "MultipleEntries": 25
+  },
+  {
+    "player_api_id": 39854,
+    "player_name": "Xavi Hernandez",
+    "rating": 87.63636016845703,
+    "MultipleEntries": 22
+  },
+  {
+    "player_api_id": 30829,
+    "player_name": "Wayne Rooney",
+    "rating": 87.22222137451172,
+    "MultipleEntries": 36
+  },
+  {
+    "player_api_id": 30657,
+    "player_name": "Iker Casillas",
+    "rating": 86.95454406738281,
+    "MultipleEntries": 22
+  },
+  {
+    "player_api_id": 30894,
+    "player_name": "Philipp Lahm",
+    "rating": 86.73332977294922,
+    "MultipleEntries": 30
+  },
+  {
+    "player_api_id": 37459,
+    "player_name": "David Silva",
+    "rating": 86.53845977783203,
+    "MultipleEntries": 26
+  },
+  {
+    "player_api_id": 30843,
+    "player_name": "Robin van Persie",
+    "rating": 86.47368621826172,
+    "MultipleEntries": 38
+  },
+  {
+    "player_api_id": 30613,
+    "player_name": "Cesc Fabregas",
+    "rating": 86.19355010986328,
+    "MultipleEntries": 31
+  },
+  {
+    "player_api_id": 37412,
+    "player_name": "Sergio Aguero",
+    "rating": 86.11428833007813,
+    "MultipleEntries": 35
+  },
+  {
+    "player_api_id": 30661,
+    "player_name": "Carles Puyol",
+    "rating": 85.88888549804688,
+    "MultipleEntries": 18
+  },
+  {
+    "player_api_id": 27299,
+    "player_name": "Manuel Neuer",
+    "rating": 85.86206817626953,
+    "MultipleEntries": 29
+  },
+  {
+    "player_api_id": 30962,
+    "player_name": "Sergio Ramos",
+    "rating": 85.78947448730469,
+    "MultipleEntries": 19
+  },
+  {
+    "player_api_id": 38817,
+    "player_name": "Carlos Tevez",
+    "rating": 85.78947448730469,
+    "MultipleEntries": 38
+  },
+  {
+    "player_api_id": 30717,
+    "player_name": "Gianluigi Buffon",
+    "rating": 85.7741928100586,
+    "MultipleEntries": 31
+  },
+  {
+    "player_api_id": 30872,
+    "player_name": "Bastian Schweinsteiger",
+    "rating": 85.65384674072266,
+    "MultipleEntries": 26
+  },
+  {
+    "player_api_id": 27301,
+    "player_name": "Marcelo Jose Bordon",
+    "rating": 85.4000015258789,
+    "MultipleEntries": 5
+  },
+  {
+    "player_api_id": 40636,
+    "player_name": "Luis Suarez",
+    "rating": 85.2750015258789,
+    "MultipleEntries": 40
+  },
+  {
+    "player_api_id": 30859,
+    "player_name": "Petr Cech",
+    "rating": 85.2727279663086,
+    "MultipleEntries": 22
+  },
+  {
+    "player_api_id": 30865,
+    "player_name": "Nemanja Vidic",
+    "rating": 85.25,
+    "MultipleEntries": 28
+  },
+  {
+    "player_api_id": 34520,
+    "player_name": "Fabio Cannavaro",
+    "rating": 85.16666412353516,
+    "MultipleEntries": 6
+  },
+  {
+    "player_api_id": 36615,
+    "player_name": "Yaya Toure",
+    "rating": 85.02702331542969,
+    "MultipleEntries": 37
+  }
+]
